@@ -3,4 +3,34 @@ git status #all changes i made, all in red
 git add . # its when i want to different files
 the best thing with git add . is that it adds all the files at once, but if i want to them separately, then i have to them one by one like git add Gemfile or blah blah one by one
  
- git add 
+ git add . puts it in a que to be added to the 
+ so that it gets ready to be committed to the github now.
+
+ git commit -m " first commit of mine"
+
+ this is committing files and these are the changes and the msg that will be committed to our files\
+ git. still not on github
+
+
+ git status
+ git add .
+ git commit -m "first commit"
+ git push origin master
+
+ which api im using in this projects
+ with all its info
+
+ i will welcome the user
+ ask for the info 
+ and return the list of the info based on that zipcode
+ then im going to ask for input
+ show some info about that specific event
+
+
+ cli class - dealing with the things showing onto the terminal
+ api class deal wit hall api things
+ events class deals with all events 
+
+ chmod +x run # this will allow the file which in here is run to run without putting the word ruby infront of it
+
+
