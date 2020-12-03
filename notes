@@ -1,0 +1,6 @@
+git status #all changes i made, all in red
+
+git add . # its when i want to different files
+the best thing with git add . is that it adds all the files at once, but if i want to them separately, then i have to them one by one like git add Gemfile or blah blah one by one
+ 
+ git add 
